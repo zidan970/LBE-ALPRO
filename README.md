@@ -14,14 +14,26 @@ MINGGU 1
   <br/> b. Contoh :  <title>Hello World!</title>
 5) Struktur HTML
   <br/> a. Page Titles
+     <br/> Contoh : <title>My page</title>
   <br/> b. Paragraphs
+     <br/> Contoh : <p>This is paragraph 1.</p>
   <br/> c. Headings
+     <br/> Contoh : <h1>Heading 1</h1> 
   <br/> d. Lists
+     <br/> Contoh : <li>A</li>
   <br/> e. Images
+     <br/> Contoh : <img src=“picture.gif” width=“120” height=“90” alt=“Picture”>
   <br/> f. Tables
-  <br/> g. Forms and Inputs
-  <br/> h. Span dan DIV
+     <br/> Contoh : <td>Row 1, Column 1</td> 
+  <br/> g. Forms
+     <br/> Contoh : <form action=“something.php” method=“post”>
+  <br/> h. Inputs
+     <br/> Contoh : <input type=“checkbox”>
+  <br/> i. Span dan DIV
+     <br/> Span digunakan untuk menandai sebuah bagian in-line dari HTML (misal di dalam paragraf)
+     <br/> Div (division) digunakan untuk menandai sebuah bagian blok dari HTML
   <br/> i. Links
+     <br/> Contoh : <a href=“http://www.facebook.com”>Facebook</a>
   
 MINGGU 2
 1) Fungsi CSS
