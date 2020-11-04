@@ -20,7 +20,6 @@ MINGGU 1
   <br/> c. Headings
      <br/> Contoh : <h1>Heading 1</h1> 
   <br/> d. Lists
-     <br/> Contoh : <li>A</li>
   <br/> e. Images
      <br/> Contoh : <img src=“picture.gif” width=“120” height=“90” alt=“Picture”>
   <br/> f. Tables
