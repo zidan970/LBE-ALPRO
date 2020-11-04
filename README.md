@@ -2,7 +2,7 @@
 
 MINGGU 1
 1) Format File HTML
-  > .html atau .htm
+  <br/> .html atau .htm
 2) Tag
   <br/> opening tag dan closing tag (opening tag – content – closing tag)
   <br/> self closing tag
