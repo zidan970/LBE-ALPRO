@@ -21,7 +21,9 @@ MINGGU 1
      <br/> Contoh : <h1>Heading 1</h1> 
   <br/> d. Lists
   <br/> e. Images
-     <br/> Contoh : <img src=“caknun.com” width=“120” height=“90” alt=“Picture”>
+     <br/>
+     <br/> Contoh : <img src=“picture.gif” width=“120” height=“90” alt=“Picture”>
+     <br/>
   <br/> f. Tables
   <br/> g. Forms
   <br/> h. Inputs
