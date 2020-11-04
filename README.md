@@ -23,11 +23,8 @@ MINGGU 1
   <br/> e. Images
      <br/> Contoh : <img src=“picture.gif” width=“120” height=“90” alt=“Picture”>
   <br/> f. Tables
-     <br/> Contoh : <td>Row 1, Column 1</td> 
   <br/> g. Forms
-     <br/> Contoh : <form action=“something.php” method=“post”>
   <br/> h. Inputs
-     <br/> Contoh : <input type=“checkbox”>
   <br/> i. Span dan DIV
      <br/> Span digunakan untuk menandai sebuah bagian in-line dari HTML (misal di dalam paragraf)
      <br/> Div (division) digunakan untuk menandai sebuah bagian blok dari HTML
