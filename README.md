@@ -4,11 +4,11 @@ MINGGU 1
 1) Format File HTML
   > .html atau .htm
 2) Tag
-  > opening tag dan closing tag (opening tag – content – closing tag)
-  > self closing tag
+  <br/> opening tag dan closing tag (opening tag – content – closing tag)
+  <br/> self closing tag
 3) Atribut
-  > Informasi tambahan yang melekat pada tag
-  > Contoh : <a href=“www.facebook.com”>Facebook</a>
+  <br/> Informasi tambahan yang melekat pada tag
+  <br/> Contoh : <a href=“www.facebook.com”>Facebook</a>
 4) Elemen
   <br/> Bagian pada HTML yang terdiri dari opening tag – konten – closing tag
   <br/> Contoh :  <title>Hello World!</title>
