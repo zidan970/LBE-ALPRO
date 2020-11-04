@@ -28,8 +28,8 @@ MINGGU 1
   <br/> g. Forms
   <br/> h. Inputs
   <br/> i. Span dan DIV
-     <br/>  - Span digunakan untuk menandai sebuah bagian in-line dari HTML (misal di dalam paragraf)
-     <br/>  - Div (division) digunakan untuk menandai sebuah bagian blok dari HTML
+     <br/> - Span digunakan untuk menandai sebuah bagian in-line dari HTML (misal di dalam paragraf)
+     <br/> - Div (division) digunakan untuk menandai sebuah bagian blok dari HTML
   <br/> i. Links
      <br/> Contoh : <a href=“www.facebook.com”>Facebook</a>
   
