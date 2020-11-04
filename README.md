@@ -7,11 +7,11 @@ MINGGU 1
   <br/> a. opening tag dan closing tag (opening tag – content – closing tag)
   <br/> b. self closing tag
 3) Atribut
-  <br/> Informasi tambahan yang melekat pada tag
-  <br/> Contoh : <a href='www.facebook.com'>Facebook</a>
+  <br/> a. Informasi tambahan yang melekat pada tag
+  <br/> b. Contoh : <a h r e f="www.facebook.com">Facebook</a>
 4) Elemen
-  <br/> Bagian pada HTML yang terdiri dari opening tag – konten – closing tag
-  <br/> Contoh :  <title>Hello World!</title>
+  <br/> a. Bagian pada HTML yang terdiri dari opening tag – konten – closing tag
+  <br/> b. Contoh :  <title>Hello World!</title>
 5) Struktur HTML
   a. Page Titles
   b. Paragraphs
