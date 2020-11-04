@@ -10,8 +10,8 @@ MINGGU 1
   > Informasi tambahan yang melekat pada tag
   > Contoh : <a href=“www.facebook.com”>Facebook</a>
 4) Elemen
-  > Bagian pada HTML yang terdiri dari opening tag – konten – closing tag
-  > Contoh :  <title>Hello World!</title>
+  <br/> Bagian pada HTML yang terdiri dari opening tag – konten – closing tag
+  <br/> Contoh :  <title>Hello World!</title>
 5) Struktur HTML
   a. Page Titles
   b. Paragraphs
