@@ -8,20 +8,20 @@ MINGGU 1
   <br/> b. self closing tag
 3) Atribut
   <br/> a. Informasi tambahan yang melekat pada tag
-  <br/> b. Contoh : <a h r e f="www.facebook.com">Facebook</a>
+  <br/> b. Contoh : <a href="www.facebook.com">Facebook</a>
 4) Elemen
   <br/> a. Bagian pada HTML yang terdiri dari opening tag – konten – closing tag
   <br/> b. Contoh :  <title>Hello World!</title>
 5) Struktur HTML
-  a. Page Titles
-  b. Paragraphs
-  c. Headings
-  d. Lists
-  e. Images
-  f. Tables
-  g. Forms and Inputs
-  h. Span dan DIV
-  i. Links
+  <br/> a. Page Titles
+  <br/> b. Paragraphs
+  <br/> c. Headings
+  <br/> d. Lists
+  <br/> e. Images
+  <br/> f. Tables
+  <br/> g. Forms and Inputs
+  <br/> h. Span dan DIV
+  <br/> i. Links
   
 MINGGU 2
 1) Fungsi CSS
