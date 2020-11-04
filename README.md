@@ -2,9 +2,16 @@
 
 MINGGU 1
 1) Format File HTML
+  > .html atau .htm
 2) Tag
+  > opening tag dan closing tag (opening tag – content – closing tag)
+  > self closing tag
 3) Atribut
+  > Informasi tambahan yang melekat pada tag
+  > Contoh : <a href=“www.facebook.com”>Facebook</a>
 4) Elemen
+  > Bagian pada HTML yang terdiri dari opening tag – konten – closing tag
+  > Contoh :  <title>Hello World!</title>
 5) Struktur HTML
   a. Page Titles
   b. Paragraphs
@@ -28,3 +35,4 @@ MINGGU 2
 9) Pseudo Classes
 10) Background Images
 11) Specificity
+12) Version Control System
